@@ -29,47 +29,51 @@
 		<dc:title id="title">The Crimson Circle</dc:title>
 		<meta property="file-as" refines="#title">Crimson Circle, The</meta>
 		<dc:subject id="subject-1">Detective and mystery stories</dc:subject>
-		<dc:subject id="subject-2">England -- Fiction</dc:subject>
+		<dc:subject id="subject-2">London (England) -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Extortion -- Fiction</dc:subject>
 		<dc:subject id="subject-4">Gangs -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85037260</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="term" refines="#subject-2">sh2008106611</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008103211</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008105038</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Mystery</meta>
+		<dc:description id="description">A police inspector and an unusual private detective investigate a devious blackmail plot.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Strange letters have started to appear across London, a series of blackmailing notes directed at wealthy and prominent figures in society contained in envelopes marked with a crimson circle, with the threat of a punishment if the demands made are not met by their respective recipients. A promise that has yielded fatal results to those that have ignored the instructions of the “Crimson Circle.”&lt;/p&gt;
+			&lt;p&gt;Despite their best efforts, the police have been unable to discover more about this shadow cabal of criminals and its mysterious leader, leaving them without the means to destroy their organization and put an end to the terror that has taken over London and its citizens.&lt;/p&gt;
+			&lt;p&gt;The lead investigator in the “Crimson Circle” case, Chief Inspector Parr, finds an unlikely crime solving partner in Derrick Yale—an enigmatic detective with a peculiar gift for deduction—in the wake of its latest victim: Mr. James Beardmore, found dead in his estate after failing to pay one hundred thousand pounds to the “Crimson Circle.”&lt;/p&gt;
+			&lt;p&gt;The search of the killer and any leads that could help bring the “Crimson Circle” to justice is further complicated by the appearance of Thalia Drummond, a charming young secretary who’s more than she seems …&lt;/p&gt;
+			&lt;p&gt;Published in 1922, &lt;i&gt;The Crimson Circle&lt;/i&gt; became one of &lt;a href="https://standardebooks.org/ebooks/edgar-wallace"&gt;Edgar Wallace’s&lt;/a&gt; better known works, adopting the titular Crimson Circle symbol as a characteristic cover element in subsequent works and re-editions. The novel was eventually adapted for film in 1922, 1929, 1936 and 1960.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/76257</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/crimsoncircle0000edga</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Crimson_Circle</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Crimson_Circle_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-wallace_the-crimson-circle</meta>
 		<dc:creator id="author">Edgar Wallace</dc:creator>
 		<meta property="file-as" refines="#author">Wallace, Edgar</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Richard Horatio Edgar Wallace</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edgar_Wallace</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n80034938</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80034938</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Yrjö Ollila</dc:contributor>
+		<meta property="file-as" refines="#artist">Ollila, Yrjö</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Yrjö Aleksanteri Ollila</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Yrj%C3%B6_Ollila</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr2005019547</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">An Anonymous Volunteer</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Anonymous Volunteer, An</meta>
+		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Sergio Tellez</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Tellez, Sergio</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
