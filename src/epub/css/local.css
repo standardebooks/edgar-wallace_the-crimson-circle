@@ -30,6 +30,10 @@
 	text-indent: -1em;
 }
 
+#chapter-13 blockquote:nth-of-type(3) p{
+	text-align: center;
+}
+
 /* Centered dedications */
 section[epub|type~="dedication"]{
 	text-align: center;
