@@ -1,6 +1,26 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+#chapter-6 blockquote:nth-of-type(2) p{
+	font-style: italic;
+	text-align: center;
+}
+
+#chapter-6 blockquote:nth-of-type(2) p:nth-child(2){
+	padding-left: 2em;
+	text-indent: -1em;
+}
+
+#chapter-6 blockquote:nth-of-type(2) p:nth-child(3){
+	padding-left: 3em;
+	text-indent: -1em;
+}
+
+#chapter-6 blockquote:nth-of-type(2) p:last-child{
+	padding-left: 4em;
+	text-indent: -1em;
+}
+
 /* Centered dedications */
 section[epub|type~="dedication"]{
 	text-align: center;
