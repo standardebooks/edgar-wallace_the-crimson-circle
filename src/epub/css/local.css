@@ -1,6 +1,15 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+[epub|type~="dedication"] p{
+	font-variant: all-small-caps;
+}
+
+[epub|type~="dedication"] b{
+	letter-spacing: .1em;
+	text-transform: uppercase;
+}
+
 #chapter-6 blockquote:nth-of-type(2) p{
 	font-style: italic;
 	text-align: center;
