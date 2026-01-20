@@ -54,7 +54,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/76257</dc:source>
 		<dc:source>https://archive.org/details/crimsoncircle0000edga</dc:source>
-		<meta property="se:word-count">65722</meta>
+		<meta property="se:word-count">64644</meta>
 		<meta property="se:reading-ease.flesch">74.08</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Crimson_Circle_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-wallace_the-crimson-circle</meta>
